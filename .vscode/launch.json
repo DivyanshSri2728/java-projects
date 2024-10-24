@@ -1,0 +1,241 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "tax",
+      "request": "launch",
+      "mainClass": "tax",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "hierarchicalinherit",
+      "request": "launch",
+      "mainClass": "Practice.hierarchicalinherit",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "simpleinherit",
+      "request": "launch",
+      "mainClass": "Practice.simpleinherit",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "simpleinherit",
+      "request": "launch",
+      "mainClass": "simpleinherit",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "leapyear",
+      "request": "launch",
+      "mainClass": "leapyear",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "leapyear",
+      "request": "launch",
+      "mainClass": "Practice.leapyear",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "override",
+      "request": "launch",
+      "mainClass": "Practice.override",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "overload",
+      "request": "launch",
+      "mainClass": "Practice.overload",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "Practice.factorial",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "fibonacci",
+      "request": "launch",
+      "mainClass": "Practice.fibonacci",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "constructchain",
+      "request": "launch",
+      "mainClass": "constructchain",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "construcoverload",
+      "request": "launch",
+      "mainClass": "construcoverload",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "paraconstructor",
+      "request": "launch",
+      "mainClass": "paraconstructor",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "methodOverloading",
+      "request": "launch",
+      "mainClass": "methodOverloading",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "returnage",
+      "request": "launch",
+      "mainClass": "returnage",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "Main5",
+      "request": "launch",
+      "mainClass": "Main5",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "age",
+      "request": "launch",
+      "mainClass": "age",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "mulObjects",
+      "request": "launch",
+      "mainClass": "mulObjects",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "wiMethod",
+      "request": "launch",
+      "mainClass": "wiMethod",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "Main3",
+      "request": "launch",
+      "mainClass": "Main3",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "rashi",
+      "request": "launch",
+      "mainClass": "rashi",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "divyansh",
+      "request": "launch",
+      "mainClass": "divyansh",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "over3",
+      "request": "launch",
+      "mainClass": "over3",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "overloading",
+      "request": "launch",
+      "mainClass": "overloading",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "ovrloading",
+      "request": "launch",
+      "mainClass": "ovrloading",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "hierrar",
+      "request": "launch",
+      "mainClass": "hierrar",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "hybrid",
+      "request": "launch",
+      "mainClass": "hybrid",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "multi",
+      "request": "launch",
+      "mainClass": "multi",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "Single",
+      "request": "launch",
+      "mainClass": "Single",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "type": "java",
+      "name": "area3",
+      "request": "launch",
+      "mainClass": "area3",
+      "projectName": "java projects_795abbdf"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/sriva/java projects/my fiest project/src/UNIT2.java",
+      "program": "c:/Users/sriva/java projects/my fiest project/src/UNIT2.java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
